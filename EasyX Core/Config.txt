@@ -1,0 +1,57 @@
+---------------------------------------EasyX Core configs-------------------------------------------
+
+Values:
+
+*Because "EasyX Core" can't used by oneself , so these values are the "EasyX Core" used in system
+
+Processor Useage : >= 1%	Memory Useage : >= 100KB	Disk Usedage : >= 10MB
+
+处理器使用 : >= 1%		内存使用 : >= 100KB		磁盘使用 : >= 10MB
+ 
+Использование процессора: > = 1% 
+Использование памяти: > = 100 КБ 
+Использование диска: > = 10 КБ
+
+Prozessorauslastung : > = 1 % 
+Speicherauslastung : > = 100 KB 
+Festplattenauslastung : > = 10 MB
+
+Uso del procesador : >= 1% 
+Uso de memoria : >= 100KB 
+Uso del disco : >= 10MB
+
+
+Passeds : 
+
+Safely & Truely of "EasyX Core" [2023.6.13]
+
+"EasyX Core"的检测属性为 : 安全，正常的 (检测于2023年6月13日)
+
+Безопасно и верно от "EasyX Core" [2023.6.13]
+
+Sicher & Wahrhaftig von "EasyX Core" [2023.6.13]
+
+Con seguridad y veracidad de "EasyX Core" [2023.6.13]
+------------------------------------------------------------------------------------------------------
+
+
+[<-------------------------------------The New Look!------------------------------------------>]
+
+Grassinternet.Inc [2022 -2040] & Create.Inc (2023):
+
+	This is the new product of our system core , it's become more easily , clearly , fastly 
+	and useful. "EasyX Core" created and based on EasyOS(R) 2.0 , so it extented lots of fea-
+	tures of EasyOS(R) 2.0 , also , EasyOS(R) 2.0 is based on "easycore" , but easycore is n-
+	ot useful. it is slowly and worse than "EasyX Core" , the biggest bug in the "easycore"
+	is the hardware safe. Everybody can open the file and change the values and then to hacked
+	the system. So in this time , we deleted all of the value settings , who replace it? - the
+	strings and the T/F values. We don't created it in the public enviroment , we created it in
+	the personal enviroment. so you cannot change it before system strarting. it became more sa-
+	fely. And soon we will use GUI in the EasyOS(R)!
+	
+	These are the news about the "EasyX Core" update , thanks for your use!
+	
+	- grassblock 
+			-2023.6.13
+
+[<---------------------------------------------------------------------------------------------------->]

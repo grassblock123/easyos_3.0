@@ -1,0 +1,23 @@
+=================================================================================================
+							EasyX Core Prview
+									
+Introduction :
+
+In EasyOS 2.0 , we improve the system starting up , before , we using SFT (String Fatal Task) to
+
+staring up the system , and in EasyOS 2.0 , we improve it to the c-El (core-EFI load) to staring up,
+
+but now , we changed the System staring up again ,  and we begining to using more clearly and
+
+smartly OS based Core - EasyX Core.
+
+
+Meaning :
+
+We improve the creating values funtion , we make it in the personal enviroment , and we create a new
+
+funtion :  dairy
+
+Ver : V 1.0.0-RC-A
+
+=================================================================================================
