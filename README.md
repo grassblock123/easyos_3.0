@@ -1,4 +1,4 @@
-# easyos_3.0
+# EasyOS_3.0
 The third version of EasyOS , which has the full EasyOS 
 but lacks substantial features (no open software, beta phase).
 
@@ -6,6 +6,56 @@ EasyOS的第三个版本 ， 拥有了完整的EasyOS，
 但是缺乏实质性的功能（没有开放软件，测试阶段）
 
 # Update Log
+
+# b.2.0.0
+English : 
+
+Designs and creates system windows and software using the new Coffie API and FlashE language, introducing dynamic updates.
+
+                                                                     grass_block
+                                                                        2023.8.10
+
+Chinese (中文) : 
+
+使用全新的Coffie API 和 FlashE语言设计和创建系统窗口和软件，引入动态更新
+
+
+                                                                     grass_block
+                                                                        2023.8.10
+
+# b.1.5.0
+English : 
+
+Remove EasyX Core, create a demo of the system, and use FlashE to write the system software (FlashE version: b.1.0.0).
+
+                                                                     grass_block
+                                                                        2023.8.10
+
+Chinese (中文) : 
+
+删除EasyX Core，创建系统演示demo，并且使用FlashE进行系统软件的编写（FlashE版本 ：b.1.0.0)
+
+
+                                                                     grass_block
+                                                                        2023.8.10
+
+
+# v.1.0.0
+English : 
+
+Fixed some bugs, disabled problematic built-in software, and made minor adjustments to EasyX Core.
+
+                                                                     grass_block
+                                                                        2023.8.10
+
+Chinese (中文) : 
+
+修复了一些bug，禁用了存在问题的内置软件，对于EasyX Core进行了细微的调整.
+
+
+                                                                     grass_block
+                                                                        2023.8.10
+
 
 # b.1.0.0
 English : 
